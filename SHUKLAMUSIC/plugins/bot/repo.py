@@ -25,7 +25,7 @@ start_txt = """**
 
 
 
-@app.on_message(filters.command("repo"))
+@app.on_message(filters.command("r44444epo"))
 async def start(_, msg):
     buttons = [
         [ 
